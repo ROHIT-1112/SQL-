@@ -1,2 +1,2 @@
-# SQL-
+# SQL
 The Language of DATABASES.
